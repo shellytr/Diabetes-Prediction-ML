@@ -6,12 +6,12 @@ This repository contains a **Machine Learning** project aimed at predicting whet
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 The goal of this project is to accurately predict diabetes risk based on patient medical data, and to compare the effectiveness of Random Forest and SVM classifiers.
 
 ---
 
-## 📥 Dataset
+## Dataset
 The dataset used in this project is the **Pima Indians Diabetes Database**, obtained from Kaggle:
 
 - [Diabetes Data Set by mathchi](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
@@ -29,7 +29,7 @@ The dataset used in this project is the **Pima Indians Diabetes Database**, obta
 
 ---
 
-## 🛠️ Technologies and Libraries
+## Technologies and Libraries
 - Python
 - pandas
 - NumPy

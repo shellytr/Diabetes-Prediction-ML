@@ -37,5 +37,3 @@ The dataset used in this project is the **Pima Indians Diabetes Database**, obta
 - matplotlib
 - seaborn
 - ipywidgets (for interactive predictions)
-
----
